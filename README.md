@@ -752,6 +752,7 @@ different bottleneck — deploying them in combination yields compounding return
 
 ## Security & Compliance
 
+- [Zentric Protocol](https://zentricprotocol.com) - Security layer for production RAG. Detects prompt injection in retrieved documents and redacts PII before LLM context assembly. 23ms, GDPR Art.30.
 - [Lakera Guard](https://www.lakera.ai/)
   - A low-latency security API that protects applications against prompt
     injections, data leakage, and toxic content in real-time. It acts as an
